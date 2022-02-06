@@ -7,7 +7,7 @@
   <parameter name = "password" value ="Admin123"/>
   <parameter name = "invalidPassword" value ="Admin155"/>
     <classes>
-      <class name="Demo.SeleniumTest.LoginPageTest"/>
+      <class name="com.openmrs.tests.LoginPageTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
